@@ -1,0 +1,8 @@
+--[==[
+	Author: B6O6S
+	Repository: Better-ODH
+	Branch: main
+	Sign ID: 242798e1f564080bf07c5d4405902b4470c1c04c98ac7347927172511de44a72
+]==]
+
+odh_shared_plugins.load_from_github_url("/B6O6S/Better-ODH/refs/heads/main/Better%20ODH%20Auto%20Updater.lua")
